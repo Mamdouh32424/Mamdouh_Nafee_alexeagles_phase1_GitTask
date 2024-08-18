@@ -1,1 +1,1 @@
-the conflict branch is here
+solved the conflict in main.txt
