@@ -1,1 +1,1 @@
-the main conflict is here
+solved the conflict in main.txt
